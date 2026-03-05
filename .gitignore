@@ -1,0 +1,7 @@
+# Ignore env with secrets
+.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
